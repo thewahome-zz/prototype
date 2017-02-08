@@ -1,0 +1,1408 @@
+﻿$axure.loadDocument({
+  "configuration":{
+    "showPageNotes":true,
+    "showPageNoteNames":false,
+    "showAnnotations":true,
+    "linkStyle":"b",
+    "linkFlowsToPages":true,
+    "linkFlowsToPagesNewWindow":true,
+    "hideAddress":false,
+    "preventScroll":false,
+    "useLabels":false,
+    "enabledViewIds":[],
+    "loadFeedbackPlugin":false},
+  "sitemap":{
+    "rootNodes":[{
+        "pageName":"Login",
+        "type":"Wireframe",
+        "url":"login.html"},
+{
+        "pageName":"Clerk G-Note Managment",
+        "type":"Wireframe",
+        "url":"clerk_g-note_managment.html",
+        "children":[{
+            "pageName":"Clerk- View Approved G-Note",
+            "type":"Wireframe",
+            "url":"clerk-_view_approved_g-note.html"},
+{
+            "pageName":"Clerk- Voucher Req",
+            "type":"Wireframe",
+            "url":"clerk-_voucher_req.html",
+            "children":[{
+                "pageName":"Clerk-Add Voucher Req",
+                "type":"Wireframe",
+                "url":"clerk-add_voucher_req.html"},
+{
+                "pageName":"Clerk-View Voucher Req",
+                "type":"Wireframe",
+                "url":"clerk-view_voucher_req.html"},
+{
+                "pageName":"Clerk-Print Voucher Req",
+                "type":"Wireframe",
+                "url":"clerk-print_voucher_req.html"},
+{
+                "pageName":"Clerk-Delete Voucher Req",
+                "type":"Wireframe",
+                "url":"clerk-delete_voucher_req.html"}]},
+{
+            "pageName":"Clerk- Pending Loan Req",
+            "type":"Wireframe",
+            "url":"clerk-_pending_loan_req.html",
+            "children":[{
+                "pageName":"Clerk-Add Loan Req",
+                "type":"Wireframe",
+                "url":"clerk-add_loan_req.html"},
+{
+                "pageName":"Clerk-View Loan Req",
+                "type":"Wireframe",
+                "url":"clerk-view_loan_req.html"},
+{
+                "pageName":"Clerk-Print Loan Req",
+                "type":"Wireframe",
+                "url":"clerk-print_loan_req.html"},
+{
+                "pageName":"Clerk-Remove Loan Req",
+                "type":"Wireframe",
+                "url":"clerk-remove_loan_req.html"}]},
+{
+            "pageName":"Clerk- Pending NFS Req",
+            "type":"Wireframe",
+            "url":"clerk-_pending_nfs_req.html",
+            "children":[{
+                "pageName":"Clerk-Add NFS Req",
+                "type":"Wireframe",
+                "url":"clerk-add_nfs_req.html"},
+{
+                "pageName":"Clerk-View NFS Req",
+                "type":"Wireframe",
+                "url":"clerk-view_nfs_req.html"},
+{
+                "pageName":"Clerk-Print NFS Req",
+                "type":"Wireframe",
+                "url":"clerk-print_nfs_req.html"},
+{
+                "pageName":"Clerk-Remove NFS Req",
+                "type":"Wireframe",
+                "url":"clerk-remove_nfs_req.html"}]},
+{
+            "pageName":"Clerk-Change Owner G-Notes",
+            "type":"Wireframe",
+            "url":"clerk-change_owner_g-notes.html",
+            "children":[{
+                "pageName":"Clerk-Add Change Owner Request",
+                "type":"Wireframe",
+                "url":"clerk-add_change_owner_request.html"},
+{
+                "pageName":"Clerk-View Change Owner",
+                "type":"Wireframe",
+                "url":"clerk-view_change_owner.html"},
+{
+                "pageName":"Clerk-Print Change Owner",
+                "type":"Wireframe",
+                "url":"clerk-print_change_owner.html"}]},
+{
+            "pageName":"Clerk-Uncommit G-Notes",
+            "type":"Wireframe",
+            "url":"clerk-uncommit_g-notes.html",
+            "children":[{
+                "pageName":"Clerk- Add Uncommit Gnote Details",
+                "type":"Wireframe",
+                "url":"clerk-_add_uncommit_gnote_details.html"},
+{
+                "pageName":"Clerk- View Uncommit Gnote Details",
+                "type":"Wireframe",
+                "url":"clerk-_view_uncommit_gnote_details.html"},
+{
+                "pageName":"Clerk- Print Uncommit Gnote Details",
+                "type":"Wireframe",
+                "url":"clerk-_print_uncommit_gnote_details.html"}]},
+{
+            "pageName":"Clerk-Cancel G-Note",
+            "type":"Wireframe",
+            "url":"clerk-cancel_g-note.html",
+            "children":[{
+                "pageName":"Clerk- Add Cancelation",
+                "type":"Wireframe",
+                "url":"clerk-_add_cancelation.html"},
+{
+                "pageName":"Clerk- View Cancelation",
+                "type":"Wireframe",
+                "url":"clerk-_view_cancelation.html"},
+{
+                "pageName":"Clerk- Print Cancelation",
+                "type":"Wireframe",
+                "url":"clerk-_print_cancelation.html"}]}]},
+{
+        "pageName":"Manager G-Note Management",
+        "type":"Wireframe",
+        "url":"manager_g-note_management.html",
+        "children":[{
+            "pageName":"View Pending Gnote",
+            "type":"Wireframe",
+            "url":"view_pending_gnote.html"},
+{
+            "pageName":"GNotes - Processed",
+            "type":"Wireframe",
+            "url":"gnotes_-_processed.html",
+            "children":[{
+                "pageName":"View Processed Gnote",
+                "type":"Wireframe",
+                "url":"view_processed_gnote.html"}]},
+{
+            "pageName":"GNotes  Voucher Requests - Pending",
+            "type":"Wireframe",
+            "url":"gnotes__voucher_requests_-_pending.html",
+            "children":[{
+                "pageName":"Process Voucher Request",
+                "type":"Wireframe",
+                "url":"process_voucher_request.html"}]},
+{
+            "pageName":"GNotes  Voucher Requests - Processed",
+            "type":"Wireframe",
+            "url":"gnotes__voucher_requests_-_processed.html",
+            "children":[{
+                "pageName":"View Processed Voucher Request",
+                "type":"Wireframe",
+                "url":"view_processed_voucher_request.html"}]},
+{
+            "pageName":"GNotes  Loan Requests - Pending",
+            "type":"Wireframe",
+            "url":"gnotes__loan_requests_-_pending.html",
+            "children":[{
+                "pageName":"Process Loan Request",
+                "type":"Wireframe",
+                "url":"process_loan_request.html"}]},
+{
+            "pageName":"GNotes  Loan Requests - Processed",
+            "type":"Wireframe",
+            "url":"gnotes__loan_requests_-_processed.html",
+            "children":[{
+                "pageName":"View Processed Loan Request",
+                "type":"Wireframe",
+                "url":"view_processed_loan_request.html"}]},
+{
+            "pageName":"Sale Nomination Requests - Pending",
+            "type":"Wireframe",
+            "url":"sale_nomination_requests_-_pending.html",
+            "children":[{
+                "pageName":"Process Sale Request",
+                "type":"Wireframe",
+                "url":"process_sale_request.html"}]},
+{
+            "pageName":"Sale Nomination Requests - Processed",
+            "type":"Wireframe",
+            "url":"sale_nomination_requests_-_processed.html",
+            "children":[{
+                "pageName":"View Processed Sale Request",
+                "type":"Wireframe",
+                "url":"view_processed_sale_request.html"}]},
+{
+            "pageName":"GNotes  Uncommit Requests - Pending",
+            "type":"Wireframe",
+            "url":"gnotes__uncommit_requests_-_pending.html",
+            "children":[{
+                "pageName":"Process Uncommit Request",
+                "type":"Wireframe",
+                "url":"process_uncommit_request.html"}]},
+{
+            "pageName":"GNotes  Uncommit Requests - Processed",
+            "type":"Wireframe",
+            "url":"gnotes__uncommit_requests_-_processed.html",
+            "children":[{
+                "pageName":"View Processed Uncommit Request",
+                "type":"Wireframe",
+                "url":"view_processed_uncommit_request.html"}]},
+{
+            "pageName":"GNotes  Change Owner Requests - Pending",
+            "type":"Wireframe",
+            "url":"gnotes__change_owner_requests_-_pending.html",
+            "children":[{
+                "pageName":"Process Change Owner Request",
+                "type":"Wireframe",
+                "url":"process_change_owner_request.html"}]},
+{
+            "pageName":"GNotes  Change Owner Requests - Processed",
+            "type":"Wireframe",
+            "url":"gnotes__change_owner_requests_-_processed.html",
+            "children":[{
+                "pageName":"View Processed Change Owner Request",
+                "type":"Wireframe",
+                "url":"view_processed_change_owner_request.html"}]},
+{
+            "pageName":"GNotes  Cancellation Requests - Pending",
+            "type":"Wireframe",
+            "url":"gnotes__cancellation_requests_-_pending.html",
+            "children":[{
+                "pageName":"Process Cancellation Request",
+                "type":"Wireframe",
+                "url":"process_cancellation_request.html"}]},
+{
+            "pageName":"GNotes  Cancellation Requests - Processed",
+            "type":"Wireframe",
+            "url":"gnotes__cancellation_requests_-_processed.html",
+            "children":[{
+                "pageName":"View Processed Cancellation Request",
+                "type":"Wireframe",
+                "url":"view_processed_cancellation_request.html"}]}]},
+{
+        "pageName":"Admin",
+        "type":"Wireframe",
+        "url":"admin.html",
+        "children":[{
+            "pageName":"Commodity",
+            "type":"Wireframe",
+            "url":"commodity.html",
+            "children":[{
+                "pageName":"Add Commodity",
+                "type":"Wireframe",
+                "url":"add_commodity.html"}]},
+{
+            "pageName":"Grade",
+            "type":"Wireframe",
+            "url":"grade.html",
+            "children":[{
+                "pageName":"Add Grade",
+                "type":"Wireframe",
+                "url":"add_grade.html"}]},
+{
+            "pageName":"Voucher",
+            "type":"Wireframe",
+            "url":"voucher.html",
+            "children":[{
+                "pageName":"Add Voucher",
+                "type":"Wireframe",
+                "url":"add_voucher.html"}]},
+{
+            "pageName":"WR Owner",
+            "type":"Wireframe",
+            "url":"wr_owner.html",
+            "children":[{
+                "pageName":"Add WR Owner",
+                "type":"Wireframe",
+                "url":"add_wr_owner.html"}]},
+{
+            "pageName":"Users",
+            "type":"Wireframe",
+            "url":"users.html",
+            "children":[{
+                "pageName":"Add Users",
+                "type":"Wireframe",
+                "url":"add_users.html"}]},
+{
+            "pageName":"Bank",
+            "type":"Wireframe",
+            "url":"bank.html",
+            "children":[{
+                "pageName":"Add Bank",
+                "type":"Wireframe",
+                "url":"add_bank.html"}]}]}]},
+  "globalVariables":{
+    "onloadvariable":""},
+  "defaultAdaptiveView":{
+    "name":"",
+    "size":{
+      "width":0,
+      "height":0},
+    "condition":"<="},
+  "adaptiveViews":[],
+  "stylesheet":{
+    "defaultStyles":{
+      "buttonShape":{
+        "id":"fedeb8d9288c4139a832cbfdaadb4332",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058823529412}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.349019607843137}}},
+      "paragraph":{
+        "id":"e8a67accf2cf4de08f8461074202a867",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058823529412}},
+        "paddingTop":"0",
+        "paddingBottom":"0",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.349019607843137}}},
+      "h1":{
+        "id":"0bf53a35076c45038eb394c8742f407f",
+        "fontName":"'Arial Bold', 'Arial'",
+        "fontSize":"32px",
+        "fontWeight":"700",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058823529412}},
+        "paddingTop":"0",
+        "paddingBottom":"0",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.349019607843137}}},
+      "h2":{
+        "id":"43613fddbab3445aafc85cbcdb9d17fc",
+        "fontName":"'Arial Bold', 'Arial'",
+        "fontSize":"24px",
+        "fontWeight":"700",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058823529412}},
+        "paddingTop":"0",
+        "paddingBottom":"0",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.349019607843137}}},
+      "h3":{
+        "id":"252516459e954e1aa39937e0c49e60df",
+        "fontName":"'Arial Bold', 'Arial'",
+        "fontSize":"18px",
+        "fontWeight":"700",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058823529412}},
+        "paddingTop":"0",
+        "paddingBottom":"0",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.349019607843137}}},
+      "h4":{
+        "id":"76482f40174c41828f549a81b1d9b5aa",
+        "fontName":"'Arial Bold', 'Arial'",
+        "fontSize":"14px",
+        "fontWeight":"700",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058823529412}},
+        "paddingTop":"0",
+        "paddingBottom":"0",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.349019607843137}}},
+      "h5":{
+        "id":"b3ad7f1d763644169d9eebabeba9f841",
+        "fontName":"'Arial Bold', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"700",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058823529412}},
+        "paddingTop":"0",
+        "paddingBottom":"0",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.349019607843137}}},
+      "h6":{
+        "id":"fe94bf2d360f4a0d8279a48f90690933",
+        "fontName":"'Arial Bold', 'Arial'",
+        "fontSize":"10px",
+        "fontWeight":"700",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058823529412}},
+        "paddingTop":"0",
+        "paddingBottom":"0",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.349019607843137}}},
+      "imageBox":{
+        "id":"e9888ca5ebe248c0a9b54459434db992",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF000000,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058823529412}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.349019607843137}}},
+      "hyperlink":{
+        "id":"5b701918e90d43e2a39a0670ad23140e",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF0000FF,
+          "opacity":1},
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "limbo":false},
+      "hyperlinkMouseOver":{
+        "id":"d29963ba89db4a4b89ffc24d366c043b",
+        "underline":true},
+      "hyperlinkMouseDown":{
+        "id":"17d991cb937a43e19a5e1421a4d25d09"},
+      "textBox":{
+        "id":"2c61aef133944e80937eedde3799819e",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF000000,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "stateStyles":{
+},
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false},
+      "textArea":{
+        "id":"377b245e35644fedac21c3f296db5ce0",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF000000,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "stateStyles":{
+},
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false},
+      "comboBox":{
+        "id":"6b491606a0d04be48811d389931606de",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF000000,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false},
+      "listBox":{
+        "id":"5e089e47818147ceb68eecf1311280a9",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF000000,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false},
+      "checkbox":{
+        "id":"3663105fa6054c0298440042dd7391bd",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false},
+      "radioButton":{
+        "id":"f71e8ea522124d88a2f60528cf88c5da",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false},
+      "flowShape":{
+        "id":"a0921a78d7664874b8f80cec0f3d167c",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"linearGradient",
+          "colors":[{
+              "color":0xFFFFFFFF},
+{
+              "color":0xFFF2F2F2},
+{
+              "color":0xFFE4E4E4},
+{
+              "color":0xFFFFFFFF}]},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058823529412}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.349019607843137}}},
+      "treeNodeObject":{
+        "id":"8f110ace6352466a88b1a2467ab3b1a5",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "stateStyles":{
+},
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058823529412}},
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "limbo":false,
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid"},
+      "button":{
+        "id":"654c2939f0604951b5d4b781cb397f0e",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF000000,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false},
+      "imageMapRegion":{
+        "id":"c91021421e74484ea1544b8e70659fb6",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "limbo":false},
+      "inlineFrame":{
+        "id":"006bfa27f0b04a2e97fb19c90c19f570",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false},
+      "dynamicPanel":{
+        "id":"a3e221bca46f4b36a6a7abc50cc671ee",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false},
+      "referenceDiagramObject":{
+        "id":"7fb87892470e4dffb7261b3711a5fc30",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false},
+      "repeater":{
+        "id":"bac2f365d42d48c49adfa8ac793cafd7",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "opacity":"1",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058823529412}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "textRotation":"0",
+        "borderWidth":"-1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979},
+        "linePattern":"solid",
+        "cornerRadiusTopLeft":"0",
+        "outerShadow":{
+          "on":false,
+          "offsetX":5,
+          "offsetY":5,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.349019607843137}}},
+      "table":{
+        "id":"f16c139cbf8b480c908944adb725bc54",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "verticalAlignment":"middle",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058823529412}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979}},
+      "tableCell":{
+        "id":"ebf3616cc4834bf4bf14d26eee3005d0",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"left",
+        "verticalAlignment":"top",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "lineSpacing":"0px",
+        "stateStyles":{
+},
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "textShadow":{
+          "on":false,
+          "offsetX":1,
+          "offsetY":1,
+          "blurRadius":5,
+          "color":{
+            "r":0,
+            "g":0,
+            "b":0,
+            "a":0.647058823529412}},
+        "paddingTop":"2",
+        "paddingBottom":"2",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "limbo":false,
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979}},
+      "menuObject":{
+        "id":"952da7cdca0b4fbeb3f3b1589807625c",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF797979}},
+      "horizontalLine":{
+        "id":"202eff4243d3463d9689b70de05a8aab",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "opacity":"1",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF000000},
+        "linePattern":"solid"},
+      "verticalLine":{
+        "id":"55ac61b6bf4f495794827ad7819592a0",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "opacity":"1",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "visible":true,
+        "limbo":false,
+        "rotation":"0",
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF000000},
+        "linePattern":"solid"},
+      "connector":{
+        "id":"ff7cc2697b1049b7a399f96cfe39d1dd",
+        "fontName":"'Arial Regular', 'Arial'",
+        "fontSize":"13px",
+        "fontWeight":"400",
+        "fontStyle":"normal",
+        "underline":false,
+        "horizontalAlignment":"center",
+        "foreGroundFill":{
+          "fillType":"solid",
+          "color":0xFF333333,
+          "opacity":1},
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "location":{
+          "x":0,
+          "y":0},
+        "size":{
+          "width":0,
+          "height":0},
+        "limbo":false,
+        "borderWidth":"1",
+        "borderFill":{
+          "fillType":"solid",
+          "color":0xFF0099CC},
+        "linePattern":"solid"}},
+    "customStyles":{
+}}});
